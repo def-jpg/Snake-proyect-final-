@@ -1,2 +1,0 @@
-# Snake-proyect-final-
-Juego
